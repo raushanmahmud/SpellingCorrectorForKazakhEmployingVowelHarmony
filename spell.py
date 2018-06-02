@@ -40,7 +40,7 @@ def checkForVowelHarmony(word):
     # change о - ө, except ов
     # change а - ә
     softWord = isSoft(word)
-    if (not softWord):
+    if (not softWord) and (word.count('е')<1):
         word = word.replace("к","қ") # if its is not soft
     if (softWord):
         word = word.replace("и","і") # if it is soft
