@@ -134,7 +134,7 @@ def Testset(lines):
 #spelltest(Testset(open('spell-testset.txt'))) # Development set
 
 #example
-s = raw_input('-->')
+s = input('-->')
 
 input_text = s.split()
 corrected = ""
