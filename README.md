@@ -4,5 +4,7 @@
 
 The algorithm attempts to solve the problem of spelling errors online for Kazakh.
 
-Scientific article backing up the research: <a href="https://drive.google.com/file/d/1dHndYpP1Q4VhNAStJfCMR23Pj8ABhW0l/view"></a>
+Scientific article backing up the research: <a href="https://drive.google.com/file/d/1dHndYpP1Q4VhNAStJfCMR23Pj8ABhW0l/view">DESIGN AND IMPLEMENTATION OF A SPELLING CORRECTOR FOR
+
+KAZAKH EMPLOYING VOWEL HARMONY</a>
   
